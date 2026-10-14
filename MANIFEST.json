@@ -1,0 +1,33 @@
+{
+  "version": "1.0.0",
+  "files": {
+    "LivingJournal.desktop": "e5837740d3b5fb5be6aeb07816efefcac4b04c097bec9ef218c7e5cb74affb02",
+    "launch.sh": "d04186b350b0fab60599454d4bdee4af067a9d8a7c62cab964fc99255c61fb8f",
+    "VERSION": "59854984853104df5c353e2f681a15fc7924742f9a2e468c29af248dce45ce03",
+    "LICENSE": "a5b716dff62abac576ea6327272c27c73379f9322263abd09af9722edfbf2721",
+    "README.md": "11c722081f8da5fed58144cb3cb9145175d3249219e32ba4f264d6d34b2b41f3",
+    ".gitignore": "bde1ed4f249cbb1006565bd30d512f2da92ebac3b35ca5718ed89224d917d06a",
+    "RELEASE_NOTES.md": "18073d2c4bde755aac6c1107bca85eb3a6b3746b7e3fdf3529e8eb74f3a4c490",
+    "THIRD_PARTY.md": "90d906ff9a6d55cd62e3d93d678b53db4d0230a2740e811807265f30fde44e83",
+    "data/README.md": "47ec41287dde0d2524d36e788416ae78c69cebab511d41e875fbb1afa0075108",
+    "docs/QUICK_START.md": "be93309a4a0b22e29b349c7d2be5c82f3a68ffc5413ffa36c0c704e52830e088",
+    "docs/IMPORT_CHATS.md": "c73a167b89b97445ceb825f1c6e17db4199fb1ef01e414a85ad7cbac092bb587",
+    "docs/AGENT_WORKFLOW.md": "01fe9263f6563d2959ee890f36c79ce6a936a1de86685f694eac7080d8133126",
+    "docs/PORTABILITY.md": "1f2b544f26ce044d3834f9077a21d12aa96e356c44a1a0b422b09a6418514b2f",
+    "app/server.py": "4f9922cfcbf3dd0f59e0eefadf3ec4e260cc093e8f2fefc9693486c2eac7738a",
+    "app/store.py": "215e59b00b5bcaf6042078142c03b1b20cdb57f3ab64d29edf5387c7d570642e",
+    "app/launcher.py": "2937ef546a95e0bd0082626d5cab82ccd1327d32f371c43bfa136a4725cc0967",
+    "app/importer.py": "e878c4bec56ff87490c6f6a4ce3b59861747c2ae008b1ca1758943820ccbd831",
+    "app/ui.py": "60d73d2686b615490fd6a52cc5e6b3f374a6ce87f4886ffbc51202e776b2a73f",
+    "app/search_query.py": "c159442b935a4c3b34f218de6b5a3c5f83626e54621ac53d5433349472ce84f7",
+    "app/static/index.html": "d9d26f97c2ead4743629f15f117458f3b36329c55625d2fab7649b91ced97562",
+    "app/static/style.css": "ed9922d63eb482553a8b44e5bbe698cec5cbec5e285c986f5fa995e6eb667d16",
+    "app/static/main.js": "4ff841550034086de3da998f0cff5cdd7a82e905d8abfcadfcf6c6a6a06178bf",
+    "app/static/markdown.js": "5d369d253fbe82084396703b1d0b4d47ccbc831547a9e60d454af778f6731275",
+    "tests/test_store.py": "28ac78bd55640830efc6995396c214f66e3a1397eee75b99d1204c99c161439f",
+    "tests/smoke.py": "ab574d4d01e2da927ebef9003c7d848d9e5a8cc94c432f8729c665384a8b546d",
+    "tests/browser.cjs": "3d6fcffc9ac6cb8b705eb97a5d9682e0de4757d72d6baefe2316f1efcab978cb",
+    "tools/build_release.py": "ed059376f6f22ed967be3fa60ebfab58ec9f4a4d8c49db28d2712ca35e0ef0e5"
+  },
+  "self_hash": "External release manifest hashes this file too."
+}

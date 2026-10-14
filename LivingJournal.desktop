@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Living Journal
+Comment=Offline project journal
+Exec=python3 -c "import os,pathlib,sys,urllib.parse; p=urllib.parse.unquote(sys.argv[1].removeprefix('file://')); s=str(pathlib.Path(p).resolve().parent/'launch.sh'); os.execv(s,[s])" %k
+Icon=accessories-text-editor
+Terminal=true
+Categories=Office;
+StartupNotify=false
